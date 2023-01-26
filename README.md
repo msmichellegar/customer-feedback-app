@@ -25,14 +25,14 @@ Technologies I used to build this chat app:
 - Formik - for form state management
 - Jest - for testing
 - React Testing Library - for testing React
-- JSON file - to provide some initial data
+- A JSON file - to provide some initial data
 
 ## Improvements
 
 Improvements I would make with more time:
 
-- More unit tests - I wrote a couple to start with, and mapped out some tests I would write with more time, but would ideally like full coverage
+- More unit tests - I wrote a couple to start with, but would ideally like full coverage
 - End to end tests - with Cypress, testing the overall functionally
 - Persisted feedback data - currently I'm storing feedback in memory, ideally new additions would be written to the JSON file, or stored in a database
 - Better rating UI - more intuitive UI for leaving a rating (like the [star rating component](https://www.bonappetit.com/recipe/simple-is-best-dressing) I built for Bon Appétit in 2020)
-- Accessibility audit - full review of accessibility using automated tools, and specifically there needs to be a strategy for making the chart accessible
+- Accessibility audit - a full review of accessibility using automated tools - specifically there needs to be a strategy around making the chart accessible
