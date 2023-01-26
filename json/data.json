@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "name": "Nigella Lawson",
+      "email": "hello@nigella.com",
+      "comment": "The sticky toffee sauce had a sombre majesty",
+      "rating": 5
+    },
+    {
+      "name": "Ottolenghi",
+      "email": "yotam@otk.com",
+      "comment": "Delicious",
+      "rating": 3
+    },
+    {
+      "name": "Tanya McQuoid",
+      "email": "tanya@whitelotus.com",
+      "comment": "A symphony of salmon",
+      "rating": 4
+    }
+  ]
+}
