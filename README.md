@@ -6,6 +6,8 @@
 npm i && npm start
 ```
 
+Server will be available on http://localhost:3000
+
 ## Tests
 
 ```
